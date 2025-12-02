@@ -9,7 +9,7 @@
 
 <img src="https://thriftmac.com/icons/growly-write.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/growly-write">
+<a href="https://mac-apps-install.github.io/.github/growly-write">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 
